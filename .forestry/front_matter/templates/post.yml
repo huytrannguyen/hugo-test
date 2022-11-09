@@ -24,12 +24,8 @@ fields:
   name: description
   label: description
   description: Meta description
-- name: randomtext
-  type: textarea
-  default: ''
+- name: randomtextfield
+  type: text
   config:
     required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: RandomText
+  label: RandomTextField
