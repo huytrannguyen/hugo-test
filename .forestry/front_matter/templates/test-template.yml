@@ -1,0 +1,15 @@
+---
+label: test-template
+hide_body: true
+fields:
+- name: paragraph-one
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: paragraph-one
+pages:
+- content/page-with-paragraph.md
