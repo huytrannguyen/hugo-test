@@ -4,7 +4,7 @@
   "description": "[Twenty Twenty theme](https://github.com/themefisher/twenty-twenty-hugo) is developed by Themefisher.",
   "main": "index.js",
   "dependencies": {
-    "@tinacms/cli": "^1.0.7",
+    "@tinacms/cli": "^1.5.27",
     "abstract-leveldown": "^7.2.0",
     "accepts": "^1.3.8",
     "acorn": "^8.8.2",
