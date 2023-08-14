@@ -736,7 +736,7 @@
     "start-hugo": "hugo server --disableFastRender",
     "start-tailwind": "cd themes/mytheme/ && npm run tw:build",
     "start-tina": "npx tinacms dev -c \"hugo server --disableFastRender\"",
-    "build": "tinacms build && hugo build",
+    "build": "tinacms build && hugo",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
