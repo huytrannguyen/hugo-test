@@ -1,4 +1,4 @@
 ---
-title: Are you gay
+title: Home Page
 ---
 
